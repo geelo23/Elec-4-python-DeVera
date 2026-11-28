@@ -14,6 +14,22 @@
 | P3 | Student Record Manager | [set1/p3](set1/p3) |
 | P4 | Safe Menu Program | [set1/p4](set1/p4) |
 
+### P1 - Student Grade Calculator
+
+Accepts and validates student grades, calculates the average, highest, and lowest grades, then determines whether the student passed or failed.
+
+### P2 - Custom Module: Student Utilities
+
+Uses a custom `student_utils` module to calculate grade statistics and demonstrate both module import styles.
+
+### P3 - Student Record Manager
+
+Adds, removes, searches, and displays student names using a list and set to preserve records and prevent duplicate entries.
+
+### P4 - Safe Menu Program
+
+Demonstrates exception handling for division by zero, invalid numeric input, missing files, and permission errors.
+
 ## How to Run
 
 Run each command from the repository root:
