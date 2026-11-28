@@ -9,20 +9,20 @@
 
 | Activity | Description | Folder |
 |---|---|---|
-| P1 | Student Grade Calculator | [p1](p1) |
-| P2 | Custom `student_utils` module | [p2](p2) |
-| P3 | Student Record Manager | [p3](p3) |
-| P4 | Safe Menu Program | [p4](p4) |
+| P1 | Student Grade Calculator | [set1/p1](set1/p1) |
+| P2 | Custom `student_utils` module | [set1/p2](set1/p2) |
+| P3 | Student Record Manager | [set1/p3](set1/p3) |
+| P4 | Safe Menu Program | [set1/p4](set1/p4) |
 
 ## How to Run
 
 Run each command from the repository root:
 
 ```bash
-python p1/p1_grade_calculator.py
-python p2/p2_main.py
-python p3/p3_record_manager.py
-python p4/p4_exceptions.py
+python set1/p1/p1_grade_calculator.py
+python set1/p2/p2_main.py
+python set1/p3/p3_record_manager.py
+python set1/p4/p4_exceptions.py
 ```
 
 On Windows, you can use `py` instead of `python`.
@@ -33,21 +33,21 @@ Screenshots for each activity are in their respective folders.
 
 ### P1 - Student Grade Calculator
 
-![P1 output](p1/screenshots/p1_ss.jpg)
+![P1 output](set1/p1/screenshots/p1_ss.jpg)
 
 ### P2 - Custom Module: Student Utilities
 
-![P2 output](p2/screenshots/p2_ss.png)
+![P2 output](set1/p2/screenshots/p2_ss.png)
 
 ### P3 - Student Record Manager
 
-![P3 output](p3/screenshots/p3_ss.png)
+![P3 output](set1/p3/screenshots/p3_ss.png)
 
-![P3 additional output](p3/screenshots/p3_ss2.png)
+![P3 additional output](set1/p3/screenshots/p3_ss2.png)
 
 ### P4 - Safe Menu Program
 
-![P4 output](p4/screenshots/p4_ss.png)
+![P4 output](set1/p4/screenshots/p4_ss.png)
 
 ## Technologies Used
 
@@ -58,6 +58,6 @@ Screenshots for each activity are in their respective folders.
 
 ## Repository Organization
 
-The repository contains four Python programming activities organized in the `p1` through `p4` folders. Each activity includes its source code; screenshots are saved in the corresponding `screenshots` folder.
+The repository contains four Python programming activities organized in the `set1/p1` through `set1/p4` folders. Each activity includes its source code; screenshots are saved in the corresponding `screenshots` folder.
 
 The `.gitignore` file prevents Python cache files from being uploaded to the repository.
